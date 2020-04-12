@@ -1,0 +1,204 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/finson/repos/tuxilib/README.md",
+		"/Volumes/boot/ssh",
+		"/Users/finson/Documents/network/remote-fs/smidge/home/lichen/etc/pimidi.conf",
+		"/Users/finson/config",
+		"/Users/finson/Documents/network/remote-fs/smidge/home/lichen/sftp-config.json",
+		"/Users/finson/Library/Application Support/Sublime Text 3/Packages/User/SFTP.sublime-settings",
+		"/Users/finson/Library/Application Support/Sublime Text 3/Packages/SFTP/SFTP.sublime-settings",
+		"/Users/finson/Documents/network/remote-fs/smidge/home/lichen/pimidi.sh",
+		"/Users/finson/Documents/network/remote-fs/smidge/sftp-config.json",
+		"/usr/local/Homebrew/Library/Taps/homebrew/homebrew-cask/Casks/nomachine.rb",
+		"/Users/finson/zephyrproject/zephyr/boards/arm/adafruit_feather_m0_basic_proto/adafruit_feather_m0_basic_proto.yaml",
+		"/Users/finson/zephyrproject/zephyr/burnz.sh",
+		"/Users/finson/zephyrproject/zephyr/boards/arm/adafruit_feather_m0_basic_proto/pinmux.c",
+		"/Users/finson/zephyrproject/zephyr/boards/arm/adafruit_feather_m0_basic_proto/Kconfig.board",
+		"/Users/finson/zephyrproject/zephyr/build/zephyr/zephyr.stat",
+		"/Users/finson/zephyrproject/zephyr/scripts/west_commands/runners/bossac.py",
+		"/Users/finson/zephyrproject/zephyr/boards/arm/adafruit_feather_m0_basic_proto/adafruit_feather_m0_basic_proto.dts",
+		"/Users/finson/zephyrproject/zephyr/samples/sensor/isl29035/README.rst",
+		"/Users/finson/zephyrproject/zephyr/samples/sensor/isl29035/boards/nrf52_pca10040.overlay",
+		"/Users/finson/zephyrproject/zephyr/burn-zeph.sh",
+		"/Users/finson/zephyrproject/zephyr/samples/hello_world/src/main.c",
+		"/Users/finson/Documents/virtualenvwrapper-issue",
+		"/Users/finson/zephyrproject/zephyr/cmake/flash/CMakeLists.txt",
+		"/Users/finson/xx.tool"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 491.0
+	},
+	"pinned_build_system": "",
+	"project": "tuxilib.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 284.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
